@@ -1,7 +1,6 @@
 const fs = require('fs');
 const path = require('path');
 const { animals } = require('./data/animals.json')
-//TEST
 const express = require('express');
 const { create } = require('domain');
 const PORT = process.env.PORT || 3001;
