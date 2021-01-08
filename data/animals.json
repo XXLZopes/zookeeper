@@ -126,6 +126,15 @@
         "goofy"
       ],
       "id": "12"
+    },
+    {
+      "name": "Kong",
+      "species": "Monkey",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "13"
     }
   ]
 }
